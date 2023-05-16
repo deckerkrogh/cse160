@@ -1,0 +1,213 @@
+127.0.0.1 - - [15/May/2023 14:57:33] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 14:57:34] code 404, message File not found
+127.0.0.1 - - [15/May/2023 14:57:34] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 14:57:39] "GET /nohup.out HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:01] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:01] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:01] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:06] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /libs/webgl-utils.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:30:06] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /libs/webgl-debug.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:30:06] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /libs/cuon-utils.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:30:06] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /Point.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:06] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /BlockyAnimal.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /Circle.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /Cube.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:30:06] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:30:06] "GET /BlockyAnimal.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /libs/webgl-utils.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /libs/webgl-debug.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /libs/cuon-utils.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /BlockyAnimal.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /libs/cuon-utils.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:23] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:23] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:24] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:24] "GET /BlockyAnimal.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /libs/webgl-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /libs/webgl-debug.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /libs/cuon-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:32:45] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /BlockyAnimal.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:32:45] code 404, message File not found
+127.0.0.1 - - [15/May/2023 17:32:45] "GET /BlockyAnimal.js HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 17:33:14] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:33:14] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:33:14] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:33:14] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:33:14] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:33:14] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:38:24] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:38:24] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:38:24] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:38:24] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:38:24] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:38:24] "GET /World.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:39:53] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:39:53] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:39:53] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:39:53] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:39:53] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+python3: can't open file '/home/decker/school/cse160/assn3/http.server': [Errno 2] No such file or directory
+python3: can't open file '/home/decker/school/cse160/assn3/http.server': [Errno 2] No such file or directory
+python3: can't open file '/home/decker/school/cse160/assn3/http.server': [Errno 2] No such file or directory
+127.0.0.1 - - [15/May/2023 17:44:31] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:44:31] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:44:31] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:44:31] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:44:31] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:44:31] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /Point.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /Cube.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:20] "GET /Circle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:31] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:31] "GET /World.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:47] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:47:47] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 17:48:07] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 17:48:07] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /libs/webgl-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /libs/webgl-debug.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /libs/cuon-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /Point.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /Circle.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /Cube.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:09:59] code 404, message File not found
+127.0.0.1 - - [15/May/2023 18:09:59] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 18:10:43] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:10:44] code 404, message File not found
+127.0.0.1 - - [15/May/2023 18:10:44] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:25:52] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:25:53] code 404, message File not found
+127.0.0.1 - - [15/May/2023 18:25:53] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [15/May/2023 18:26:23] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:26:23] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:28:59] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:29:00] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:29:07] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:29:07] "GET /Point.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:29:07] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:29:07] "GET /Circle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:29:07] "GET /Cube.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:30:35] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:30:35] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:31:09] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:31:09] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:31:09] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:34:13] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:34:14] "GET /libs/webgl-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:34:14] "GET /libs/webgl-debug.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:34:14] "GET /libs/cuon-utils.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:34:14] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:34:14] "GET /World.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:36:09] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:36:09] "GET /World.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:09] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:09] "GET /World.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:09] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:38:21] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:22] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:38:29] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:29] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:36] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:36] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:38:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:38:50] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:03] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:03] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:39:03] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:10] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:10] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:39:10] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:26] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:26] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:39:26] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:30] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:30] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:39:46] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [15/May/2023 18:39:46] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [15/May/2023 18:39:46] "GET /Triangle.js HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2023 13:38:11] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:11] code 404, message File not found
+127.0.0.1 - - [16/May/2023 13:38:11] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [16/May/2023 13:38:16] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /libs/webgl-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /libs/webgl-debug.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /libs/cuon-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /Point.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /Circle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:38:17] "GET /Cube.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:42] "GET /World.html HTTP/1.1" 304 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /libs/webgl-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /libs/webgl-debug.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /libs/cuon-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /Point.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /Circle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /Cube.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:39:54] code 404, message File not found
+127.0.0.1 - - [16/May/2023 13:39:54] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /libs/webgl-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /libs/webgl-debug.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /libs/cuon-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /Point.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /Circle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /Cube.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:26] code 404, message File not found
+127.0.0.1 - - [16/May/2023 13:40:26] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /World.html HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /libs/webgl-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /libs/webgl-debug.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /libs/cuon-utils.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /libs/cuon-matrix-cse160.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /Point.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /World.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /Triangle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /Circle.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /Cube.js HTTP/1.1" 200 -
+127.0.0.1 - - [16/May/2023 13:40:52] code 404, message File not found
+127.0.0.1 - - [16/May/2023 13:40:52] "GET /favicon.ico HTTP/1.1" 404 -

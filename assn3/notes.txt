@@ -1,0 +1,2 @@
+To start webserver: ./webserver.sh
+To stop it: ps ax | grep test.py, then kill [id]

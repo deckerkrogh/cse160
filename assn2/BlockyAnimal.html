@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)https://rodger.global-linguist.com/webgl/ch02/ColoredPoints.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Change a point color</title>
+  </head>
+
+  <body onload="main()">
+    <canvas id="webgl" width="400" height="400">
+    Please use a browser that supports "canvas"
+    </canvas>
+
+	<p id="fps"> XXX </p>
+
+	<p>
+	Tail Animation:
+	<button type="button" id="animateTailOn">ON</Button>
+	<button type="button" id="animateTailOff">OFF</Button>
+	Head Animation:
+	<button type="button" id="animateHeadOn">ON</Button>
+	<button type="button" id="animateHeadOff">OFF</Button>
+
+	<p>
+	Camera Angle<input type="range" min="0" max="360" value="0" class="slider" id="angleSlide">
+	
+	<p>
+	Tail1<input type="range" min="-35" max="35" value="0" class="slider" id="tail1Slide">
+	<p>
+	Tail2<input type="range" min="-25" max="25" value="0" class="slider" id="tail2Slide">
+
+    <script src="../libs/webgl-utils.js"></script>
+    <script src="../libs/webgl-debug.js"></script>
+    <script src="../libs/cuon-utils.js"></script>
+    <script src="../libs/cuon-matrix-cse160.js"></script>
+    <script src="./Point.js"></script>
+    <script src="./BlockyAnimal.js"></script>
+    <script src="./Triangle.js"></script>
+    <script src="./Circle.js"></script>
+    <script src="./Cube.js"></script>
+  
+
+</body></html>

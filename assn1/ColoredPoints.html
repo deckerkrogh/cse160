@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)https://rodger.global-linguist.com/webgl/ch02/ColoredPoints.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Change a point color</title>
+  </head>
+
+  <body onload="main()">
+    <canvas id="webgl" width="400" height="400">
+    Please use a browser that supports "canvas"
+    </canvas>
+
+	<p>
+	<button type="button" id="green">Green</Button>
+	<button type="button" id="red">Red</Button>
+	<button type="button" id="clear">Clear</Button>
+	<button type="button" id="point">Point</Button>
+	<button type="button" id="triangle">Triangle</Button>
+	<button type="button" id="circle">Circle</Button>
+	<button type="button" id="bike">Bike</Button>
+
+	<p>
+	Red <input type="range" min="0" max="100" value="100" class="slider" id="redSlide">
+	<p>
+	Green <input type="range" min="0" max="100" value="100" class="slider" id="greenSlide">
+	<p>
+	Blue <input type="range" min="0" max="100" value="100" class="slider" id="blueSlide">
+
+	<p>
+	Transparency (super cool and awesome)<input type="range" min="0" max="100" value="100" class="slider" id="transparentSlide">
+
+	<p>
+	Size <input type="range" min="5" max="40" value="0" class="slider" id="sizeSlide">
+
+	<p>
+	Segment number<input type="range" min="6" max="20" value="0" class="slider" id="segmentSlide">
+
+    <script src="./ColoredPoints_files/webgl-utils.js"></script>
+    <script src="./ColoredPoints_files/webgl-debug.js"></script>
+    <script src="./ColoredPoints_files/cuon-utils.js"></script>
+    <script src="./Point.js"></script>
+    <script src="./ColoredPoints.js"></script>
+    <script src="./Triangle.js"></script>
+    <script src="./Circle.js"></script>
+  
+
+</body></html>
