@@ -54,7 +54,7 @@ class PointTriangle{
 	}
 }
 
-function drawTriangle(vertices) {
+function drawTriangle(vertices) {  /* global drawTriangle:writable*/
   var n = 3; // The number of vertices
 
   // Create a buffer object

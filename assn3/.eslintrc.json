@@ -1,0 +1,38 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true
+    },
+    "extends": "eslint:recommended",
+    "overrides": [
+    ],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module"
+    },
+    "rules": {
+		"no-unused-vars": "off"
+    },
+	"globals": {
+		"gl": "writable",
+		"Cube": "writable",
+		"Triangle": "writable",
+		"drawTriangle": "writable",
+		"drawTriangle3D": "writable",
+		"drawTriangle3DUV": "writable",
+		"canvas": "writable",
+		"gl": "writable",
+		"a_Position": "writable",
+		"a_UV": "writable",
+		"u_FragColor": "writable",
+		"u_ModelMatrix": "writable",
+		"u_GlobalRotateMatrix": "writable",
+		"u_Sampler0": "writable",
+		"u_whichTexture": "writable",
+		"u_ViewMatrix": "writable",
+		"u_ProjectionMatrix": "writable",
+		"Matrix4": "writable",
+		"Vector3": "writable",
+		"Camera": "writable"
+	}
+}
